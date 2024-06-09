@@ -1,6 +1,6 @@
 # Products Web App Api
 
-Api de um crud para gerar produtos feita em .Net 6
+Back-end da aplicação Products Web App: API com CRUD para gerar produtos feita em .Net 6
 
 #### Instruções para instalação:
 
