@@ -2,6 +2,8 @@
 
 Back-end da aplicação Products Web App: API com CRUD para gerar produtos feita em .Net 6
 
+Front-end da aplicação em: https://github.com/lcortelini/ProductWebAppUI
+
 #### Instruções para instalação:
 
 - Clone o repositório do GitHub;
